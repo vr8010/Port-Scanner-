@@ -1,0 +1,13 @@
+# Python Port Scanner - Requirements
+# 
+# This project uses only Python built-in libraries.
+# No external dependencies are required.
+#
+# Built-in libraries used:
+# - socket (network connections)
+# - threading (concurrent port scanning)
+# - datetime (time tracking)
+# - sys (system operations)
+# - queue (thread-safe queue management)
+#
+# Python version required: 3.6+
